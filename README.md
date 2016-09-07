@@ -42,6 +42,8 @@ Bottom:
 
 # ref
 
-http://pinouts.ru/NetworkCables/ethernet_10_100_1000_pinout.shtml
+- Ethernet cable arrangement:  http://pinouts.ru/NetworkCables/ethernet_10_100_1000_pinout.shtml
+
+- Pushbuttons used in remote: https://www.sparkfun.com/products/97
 
 
